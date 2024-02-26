@@ -1,0 +1,19 @@
+.red-text{
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#one{
+    color: blue;
+    font-size: 30px;
+}
+
+.phy{
+    font-size: 24px;
+}
+
+#two{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
